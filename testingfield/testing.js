@@ -1,5 +1,7 @@
+
 function Add(a,b){
-    return a+b
+    return `Sum of ${a} and ${b} is : ${a+b}`
 }
 
-console.log(Add(2,4))
+Add(2,4)
+
