@@ -3,5 +3,5 @@ function greet(user){
 
 }
 
-console.log(greet("Karan"))
+console.log(greet(prompt()))
 

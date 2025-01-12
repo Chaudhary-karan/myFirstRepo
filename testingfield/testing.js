@@ -5,4 +5,3 @@ function Add(a,b){
 
 Add(2,4)
 
-
